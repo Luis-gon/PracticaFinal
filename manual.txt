@@ -1,0 +1,1 @@
+git clone git@github.com:nombre_git/nombre_repositorio.git
