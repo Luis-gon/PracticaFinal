@@ -16,3 +16,10 @@ DEPORTES:
 	Tenis
 	Fútbol
 	Atletismo
+
+FAVORITAS:
+
+	Opening Dragon ball
+	Opening Dandadan
+	Opening Shingeki no Kyojin
+	Opening Kimetsu no Yaiba
