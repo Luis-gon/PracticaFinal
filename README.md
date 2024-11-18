@@ -1,5 +1,6 @@
 LGGC Spectacular Spiderman
 
+
 JUEGOS:
 
 	Spiderman
@@ -7,3 +8,11 @@ JUEGOS:
 	Sekiro
 	Pokemon
 	Dragon ball Sparkin Zero
+
+DEPORTES:
+
+	Baloncesto
+	Pádel
+	Tenis
+	Fútbol
+	Atletismo
